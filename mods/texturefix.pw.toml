@@ -1,0 +1,14 @@
+name = "Texture Fix"
+filename = "texture-fix-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zJKuUKvZ/versions/0.0.1/texture-fix-0.0.1.jar"
+hash-format = "sha1"
+hash = "07f509cc0cae11b9da278fe0c7921b4dd171e864"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "zJKuUKvZ"
+version = "7M3egSPs"

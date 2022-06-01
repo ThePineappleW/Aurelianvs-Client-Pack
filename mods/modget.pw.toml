@@ -1,0 +1,14 @@
+name = "Modget"
+filename = "modget-minecraft-0.4.3+1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2NpFE0R3/versions/0.4.3+1.17/modget-minecraft-0.4.3+1.17.jar"
+hash-format = "sha1"
+hash = "a605fae8a5a336f0b3b5eb3232f9185e1ab0b0f0"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "2NpFE0R3"
+version = "wqDs4Pqt"

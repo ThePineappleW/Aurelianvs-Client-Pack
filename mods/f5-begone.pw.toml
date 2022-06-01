@@ -1,0 +1,14 @@
+name = "F5 Begone"
+filename = "f5begone-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1zGNtEx5/versions/1.0.0/f5begone-1.0.0.jar"
+hash-format = "sha1"
+hash = "016c429c8a0bc0577269a89966faba3739ee0d28"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "1zGNtEx5"
+version = "Q2RgM9MC"

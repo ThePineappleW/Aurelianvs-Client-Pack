@@ -1,0 +1,14 @@
+name = "Textbook"
+filename = "Textbook-2.2.0+1.18.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bVkN6vx9/versions/2.2.0+1.18.1/Textbook-2.2.0+1.18.1.jar"
+hash-format = "sha1"
+hash = "379ff6fc318abc4bccf904bfced9aef93b16ed19"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "bVkN6vx9"
+version = "qQwcCyH7"

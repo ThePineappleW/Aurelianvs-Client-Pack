@@ -1,0 +1,14 @@
+name = "StatsSearch"
+filename = "statssearch-1.18.2-fabric0.47.10-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jM41BciC/versions/1.18.2-fabric0.47.10-1.0.1/statssearch-1.18.2-fabric0.47.10-1.0.1.jar"
+hash-format = "sha1"
+hash = "22c142a3a0291a1d6675648d2f8ce188f6233022"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "jM41BciC"
+version = "JgCJTsJe"

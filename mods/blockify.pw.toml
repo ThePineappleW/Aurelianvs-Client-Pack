@@ -1,0 +1,14 @@
+name = "Blockify"
+filename = "blockify-1.18.2-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X5aijFqA/versions/1.2.1/blockify-1.18.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "772658b602ff8b538125979f59af3cdf57b8563b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "X5aijFqA"
+version = "WWOAngoh"
