@@ -225,10 +225,6 @@ file = "mods/roughly-enough-characters.pw.toml"
 hash = "2d3b9e99a4e8144306b8cb1da16b43881d40e936de3b607d64169ec49eb1c117"
 metafile = true
 
-[[files]]
-file = "mods/shadowedactionbar.pw.toml"
-hash = "a288ac97bb8879fdb1bc1e717b8760d86dea1f45e5a4e93d35ee7a407ac1cee6"
-metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
