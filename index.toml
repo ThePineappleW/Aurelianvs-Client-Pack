@@ -161,6 +161,11 @@ hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "7f913710b83c1ab2bab0ceefea41388cf3ea1ce45bc0f6c72701c607fbc16833"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "25075b52feaf123e7d1bc500834e1b26dbd787383e42621df84b304a616f878a"
 metafile = true
@@ -273,9 +278,4 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "3f873efc662edb1dc87ac399ab7e1ce070db2490b7d4b5c92ea6a199bb8e434c"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "61e328b0d9324fb4f713a5e1a7aed8a97ead1de33f7496a623e6028e2b4544f5"
 metafile = true
