@@ -51,8 +51,23 @@ hash = "1b82969c4a698dac27fea2221e3b66b128147d8ecf4489b979786a8590d5cf68"
 metafile = true
 
 [[files]]
+file = "mods/clear-skies.pw.toml"
+hash = "dc52e04c553884364eeb50b1c2e94844151bee18f66b1b35c0ce104035c7f54c"
+metafile = true
+
+[[files]]
+file = "mods/clientsidenoteblocks.pw.toml"
+hash = "d8bcd78c157434c2258d12e04ed4bd689edd497bf6f44c1a833dd43eb3874a1a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
+metafile = true
+
+[[files]]
+file = "mods/compactchat.pw.toml"
+hash = "88073b28650b1529203bad645ca4fbe27718343b0e61345e76bcfab3980a022b"
 metafile = true
 
 [[files]]
@@ -116,6 +131,16 @@ hash = "bd8c6d669b805accb1d4936edaf9b4890492dacdaca20dfebaacbeeca93d0f8d"
 metafile = true
 
 [[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "8e64e605cb87282d854c4cbc974ff166f3bcd4f989c6eaa511cfa3a82f49d4fc"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "584857af0400a805b7ee9de6accc9d2eb930b058d0b64b628ea761dbcda4664d"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
 metafile = true
@@ -138,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "bf2421783628014944ba0dd680e689eabc1008fb2cdfa5b0b8773c8e99cdccf5"
 metafile = true
 
 [[files]]
@@ -191,8 +221,18 @@ hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "5634b2cf0510a466bf206d771efcc5e1b9ba8f3c974265794cb9291a4be6840b"
+metafile = true
+
+[[files]]
 file = "mods/ngrok-lan.pw.toml"
 hash = "ab4daab99436428b5590d4bab0f345d92a370dd4b1c04dc697c1ff7a0002852b"
+metafile = true
+
+[[files]]
+file = "mods/nochatlag.pw.toml"
+hash = "054880052694bfda971ecf3a7b8896809da3692c845c25c1e1016dbcfdaac8b3"
 metafile = true
 
 [[files]]
@@ -225,6 +265,15 @@ file = "mods/roughly-enough-characters.pw.toml"
 hash = "2d3b9e99a4e8144306b8cb1da16b43881d40e936de3b607d64169ec49eb1c117"
 metafile = true
 
+[[files]]
+file = "mods/shotify.pw.toml"
+hash = "a41e220a47a7ca190ef255fd111443cbffde7febff30b0666b5bacf7a0dd54db"
+metafile = true
+
+[[files]]
+file = "mods/shut-badlion.pw.toml"
+hash = "e2f3f3f9c8c58b06f462b612e624a6ea9cbc089d04feb53273254641114cbd13"
+metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
